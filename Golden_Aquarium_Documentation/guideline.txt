@@ -1,0 +1,52 @@
+
+Purpose of the website:
+
+Attracts customer and display information regarding the store.
+The website must be mobile friendly and demostrates attraction to customer.
+Website need to be user friendly for the owner who wish to updates the site on his own regarding with pictures related to the store.
+Future use of E-Commernces will be corrprated to the website.
+
+The website will be build on WIX engine for easy of drag and drop use for the owner.
+
+Golden Aquarium Website Function
+
+Menu Options:
+Home
+Contact US
+About US
+Store Picture
+Iventory
+Services
+Special Order 
+New Live Stock
+
+
+Home:
+	Present a page that attracts customers to Golden Aquarium.
+	Present some show tank images.
+
+Contact US:
+	Provide a section where people can contact Golden Aquarium through email 	or phone number. Text Box Area for comment.
+
+About US:
+
+	Provide a background information about Golden Aquarium.
+
+Store Picture:
+	Gallery of image of the store.
+
+Services:
+	Setup tank 
+	Tank maintenances
+
+Special Order:
+	Customer can request to special order fish if we are able to.
+	Customer will be given a quote within 48 hours after the request is sent.
+
+New Live Stock:
+	Update the website weekly to provide updated pictures of information of new arrival of fish. 
+
+
+Inventory: 
+
+	List some of the merchants we carry and fish.
